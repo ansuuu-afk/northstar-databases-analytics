@@ -1,9 +1,8 @@
 # NorthStar Urban Mobility and Logistics
 ## Databases and Analytics Assignment
 
-**Student:** Mohammed | **Student ID:** 3214  
+**Student:** Mohammed Ansab | **Student ID:** 32146926  
 **Module:** Databases and Analytics | **University of West London**  
-**Module Leader:** Shidrokh Goudarzi  
 
 ---
 
@@ -126,7 +125,7 @@ The NorthStar dataset contains 9 CSV files representing different parts of the b
 5. Connect → Drivers → Python → Copy connection string
 6. In Notebooks 4 and 5, replace:
 ```python
-MONGO_URI = "YOUR_CONNECTION_STRING_HERE"
+MONGO_URI = "mongodb+srv://ansabarchives545_db_user:dEBA4xakQ2domP3s@northstarcluster.oxug5ye.mongodb.net/?appName=NorthStarCluster"
 ```
 with your actual connection string.
 
