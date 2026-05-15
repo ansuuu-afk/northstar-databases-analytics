@@ -152,13 +152,3 @@ After connecting all nine datasets for the first time, five core operational pro
 | Python + Pandas + Seaborn | Data cleaning, anomaly detection, visualisation | Notebook 3 |
 | MongoDB Atlas + PyMongo | NoSQL document database design and CRUD | Notebook 4 |
 | MongoDB compound indexes | Query optimisation and explain() analysis | Notebook 5 |
-
----
-
-## Module Information
-
-- **Module:** Databases and Analytics
-- **Module Codes:** CP60056E, CP6CS56E, CP6HA50E
-- **Institution:** University of West London — School of Computing and Engineering
-- **Module Leader:** Shidrokh Goudarzi
-- **Submission:** 12 May 2026
